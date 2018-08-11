@@ -1,0 +1,80 @@
+<style>
+
+            body{
+               background-color: darkslategrey     
+                }
+
+            h1{ border-style: groove;
+                border-width: 5px;
+				text-align: center;
+				color:blue
+				
+
+			}
+
+			p{
+             text-align: center;
+             color: whitesmoke
+			 
+			}
+
+			.container{/*this is the section for css on all div containers*/
+					align-content: 
+    				 width: 1024px;
+   					 border: 25px solid green;
+    				padding: 10px;
+    				margin: 10px;
+					}
+			
+			ul{
+				text-align: center;
+				color: brown
+			}
+			
+
+			li{
+				text-align: center;
+				color: brown
+
+			}
+			
+			.line1{
+
+                color:rgb(248, 255, 255);
+				text-align: center;
+				border-style: groove;
+                border-width: 5px;
+                
+			}
+			
+			#h1a{
+                color: coral;
+				text-align: center;
+				border-style: groove;
+                border-width: 5px;
+			}
+			
+			#phil{
+				width: 50%
+				hight: 50%
+			}
+
+			.lines2{
+				
+				color: azure
+
+			}
+			
+			#philpic {
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+				width: 75%
+
+				
+			
+
+
+			}
+
+
